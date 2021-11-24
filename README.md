@@ -1,0 +1,2 @@
+# test
+test maksatlı hazırlanmıştır
